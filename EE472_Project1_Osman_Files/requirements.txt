@@ -1,0 +1,14 @@
+Requirements file of the EE472 Project
+Power Flow Analysis with Newton-Raphson Iteration
+					using Phyton
+
+
+Requirements;
+
+- Phyton 3.x
+- NumPy (for numerical computations)
+- Matplotlib (for visualization)
+
+- EE472_P1_OO_main.py file and ieee300cdf.txt should be in the same folder
+- ieee300cdf.txt file must be IEEE common data format.
+- 999
